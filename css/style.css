@@ -1,0 +1,117 @@
+body {
+	
+
+    font-family: 'Roboto Condensed', sans-serif;
+	padding:0;
+	margin:0;
+
+
+}
+
+a:visited {
+	
+	color:black;
+	
+}
+
+#top {
+	
+	height:100px;
+	padding:0;
+	margin:0;
+	
+}
+
+.logo {
+	
+	font-size:50px;
+	margin-left:50px;
+}
+
+#content {
+	
+	width:1200px;
+	margin: auto;
+	
+	
+}
+
+#nav {
+	
+	width:100%;
+	padding: 0; 
+	margin:0;
+	text-align:center
+	
+	
+}
+
+#nav li {
+	
+	display: inline;
+	list-style: none; /* nécessaire pour IE7 */
+	
+}
+
+#nav a {
+	
+	display:inline-block;
+	margin: 0 30px;
+	text-decoration:none;
+	font-size:20px;
+	
+}
+
+
+.storyblock {
+	
+	
+	height:500px;
+	margin-top:75px;
+	float:left;
+			
+	
+}
+
+.storyblock_left {
+	
+	width:70px;
+	height:500px;
+	float:left;
+	text-align:center;
+	padding-top:100px;
+	
+	
+}
+
+
+.vote {
+	
+	font-size:40px;
+	
+	
+}
+
+.storyblock_center {
+	
+	
+	margin-right:70px;
+	height:100%;
+	
+	
+}
+
+.story_title {
+	
+	text-align:left;
+	font-size:40px;
+	
+	
+}
+
+.author {
+	
+	text-align:right;
+	
+	
+}
